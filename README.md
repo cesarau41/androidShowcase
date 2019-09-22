@@ -22,4 +22,4 @@ Due to limitation on its size, code is available at the following link on GDrive
 * 18_MapsExample: Example of handling Maps.
 
 ##Screenshots
-![PokemonScreenshot][Pokemon.png]
+![PokemonScreenshot][Pokemon]
