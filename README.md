@@ -22,7 +22,6 @@ Due to limitation on its size, code is available at the following link on GDrive
 * 18_MapsExample: Example of handling Maps.
 
 ## Screenshots
-<br>
 ### Pokemon
 <img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/Pokemon.png" width="250">
 <img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/PokemonLandscape.png" height="250">
