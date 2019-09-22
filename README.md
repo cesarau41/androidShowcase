@@ -18,8 +18,30 @@ Due to limitation on its size, code is available at the following link on GDrive
 * 11_BabyNames: Local Databases
 * 12_FirebaseDB: How to use Firebase as a backend and using Firebase library to handl back its data.
 * 16_Downloader: Example of service and Notification
-* 17_Jukebox: a little more advanced service with a more fancy notification
+* 17_Jukebox: a another service with responsible for mediaPlayer and a slightly fancier notification with an action button
 * 18_MapsExample: Example of handling Maps.
 
-##Screenshots
-![PokemonScreenshot][Pokemon]
+## Screenshots
+<br>
+### Pokemon
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/Pokemon.png" width="250">
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/PokemonLandscape.png" height="250">
+
+### 6_Dictionary
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/6_Dictionary.png" width="250">
+
+### FlagsOfTheWorld
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/FlagsOfTheWorld.png" width="250">
+
+### 9_InternetTest
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/9_InternetTest.png" width="250">
+
+### 11_BabyNames
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/11_BabyNames.png" width="250">
+
+### 17_Jukebox
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/17_Jukebox.png" width="250">
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/17_JukeboxNotification.png" width="250">
+
+### 18_MapsExample
+<img alt="Pokemon Screenshot" src="https://github.com/cesarau41/androidShowcase/blob/master/18_MapsExample.png" width="250">
